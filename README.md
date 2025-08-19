@@ -13,4 +13,15 @@ $ sudo apt install xorg xdg-utils xdg-user-dirs && xdg-user-dirs-update
 ```
 $ sudo apt install lightdm lightdm-gtk-greeter lightdm-settings lightdm-gtk-greeter-settings
 ```
-## Instalar el 
+## Instalar servicios esenciales
+```
+$ sudo apt install dbus dbus-x11 polkitd
+```
+## Instalar el gestor de ventanas fluxbox y programas basicos
+```
+$ sudo apt install fluxbox tint2 cbatticon lxappearance xfce4-terminal gthumb dunst zip unzip feh jgmenu thunar mousepad xfce4-screenshooter xfce4-appfinder galculator atril geany firefox-esr firefox-esr-l10n-es-mx
+```
+## Instalar temas basicos de Gnome (GTK)
+```
+$ sudo apt install 
+```
